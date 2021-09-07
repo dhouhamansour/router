@@ -1,0 +1,34 @@
+const movie = [
+   {
+       title : "Five feet apart"
+       duration : 01:56:16
+       date :"2019"
+       rate : 7.2
+       genre : "Romance"
+       discription : "Stella Grant is a seventeen-year-old girl who is hospitalized with cystic fibrosis, making her life full of 
+                    restrictions and routines. One day, she meets Will Newman, who also has cystic fibrosis, 
+                    and although they are attracted to each other, they must keep a safe distance."
+       img : "https://i.egycdn.com/pic/WmFwZndlY21URXZOcHBibWVjbXZsbUVtam12UHZ3eA.jpg"
+   } 
+  {
+       title :"Exam"
+       duration : 01:37:01
+       date :"2009"
+       rate :6.9
+       genre :"Mystery,thriller"
+       discription :"Eight candidates for a highly desirable corporate job are locked together in an exam room and given a final test with just one question.
+        It seems simple yet confusing that soon, tensions begin to unravel."
+       img : "https://i.egycdn.com/pic/WmFwZndlY21FbVR2dnRSY21FY05kZFRUamw.jpg"
+   } 
+  {
+       title :"Ex Machina"
+       duration :01:48:01
+       date :"2015"
+       rate : 7.7
+       genre :"science fection,thriller,drama"
+       discription :"The film tells about Caleb (Domahal Gleeson), a 24-year-old programmer who works for a major Internet company and winner 
+       of several programming awards around the world.
+       It consists of a body made in the form of a charming and attractive woman named Ava (Alicia Vikander)."
+       img : "https://i.egycdn.com/pic/WmFwZndlY212bW90TmJFY21FbWp2TmhURW1iYQ.jpg"
+   } 
+]
